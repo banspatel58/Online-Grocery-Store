@@ -1,8 +1,7 @@
 # Online-Grocery-Store
 
-# Online-Grocery-Store-Java
-
 Client:
+
 	AbstractCommandFactory.java
 	AdminCommandFactory.java
 	AdminDashboardView.java
@@ -17,6 +16,7 @@ Client:
 	UpdateInventoryView.java
 	
 Controller:
+
 	AddToCartCommand.java
 	AdminDashboardController.java
 	AdminRegiserCommand.java
@@ -33,8 +33,9 @@ Controller:
 	StoreServerInterface.java
 	UpdateInventoryCommand.java
 	UpdateInventoryController.java
-	
+		
 Server:
+
 	DatabaseConnection.java
 	DatabaseResult.java
 	Product.java
